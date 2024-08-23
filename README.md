@@ -1,6 +1,7 @@
 # pandas-Projects
 
 Here i have tried to do some mini projects- analysis using different datasets with pandas
+Basic operations with dataframes and cleaning the data accordingly.
 The Analysis includes EDA - univariate & multivariate Analysis , Categorical & Numerical Analysis.
 concepts like Pandas Series and different plots for visualization the data.
 
