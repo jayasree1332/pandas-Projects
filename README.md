@@ -1,4 +1,8 @@
-# pandas-trails
+# pandas-Projects
+
+Here i have tried to some mini projects analysis using different datasets with pandas
+The Analysis includes EDA - univariate & multivariate Analysis , Categorical & Numerical Analysis.
+concepts like Pandas Series and different plots for visualization the data.
 
 PROJECT 1: ecommerce_purchase.ipynb
 1. Display Top 10 Rows of The Dataset
