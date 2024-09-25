@@ -1,0 +1,31 @@
+Bechdel test for the representation of women in film industry:
+
+Data analysis of gender disparity in Hollywood The Bechdel test is named after cartoonist Alison Bechdel, who introduced the idea in a comic strip in the year 1985. To pass the test, a story needs to have:
+
+    At least two women
+    The women need to talk to each other
+    They need to talk to each other about something other than a man
+
+Apparently, there were a large number of movies that did not fulfill the requirements to pass the Bechdel test
+
+The Data Question: My aim was to collect data from various different sources, and answer the following questions about the Bechdel test:
+
+    Have the Bechdel scores of movies improved over the years?
+    Do movies with higher IMDB ratings have higher Bechdel scores?
+    Do movies with female directors have higher Bechdel scores?
+    Does the budget of a movie have any impact on its Bechdel score?
+    Do movies with higher Bechdel scores generate a larger revenue?
+
+Data Collection: I collected data from three different sources: bechdeltest.com, Kaggle, and ggplot2 movies dataset.
+
+Data Analysis: I used Python to perform all data analysis and visualization.
+
+Sources:
+
+    I got data from bechdeltest.com,using their API.
+    A different dataset called movies.csv from ggplot2, and merge it with exsiting df.
+    A different movielatest.csv dataset from Kaggle.
+
+Did some analysis and visualisation of the plots. Finally, I would like to mention that the Bechdel test is not necessarily the best benchmark to measure female representation in movies. It does not take into consideration how well written a female character is, neither does it measure meaningful depth of character.
+
+However, it is one of the most well-known metrics used to expose gender bias and is the only test we have this kind of data on.
